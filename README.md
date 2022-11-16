@@ -1,6 +1,4 @@
-# GitHub-Status
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZhDev0&show_icons=true) -->
+<h4 align="center">Profile stats 🎹</h4>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ZhDev0&show_icons=true&theme=synthwave" alt="ZhDev0:: Profile Stats" /></p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZhDev0&show_icons=true&theme=radical) <br>
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZhDev0&layout=compact)](https://github.com/ZhDev0/github-readme-stats) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZhDev0&langs_count=8&theme=radical)](https://github.com/ZhDev0/github-readme-stats)
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhDev0&langs_count=10&theme=tokyonight&layout=compact" alt="ZhDev0:: Top Langs" /></p>
